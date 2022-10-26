@@ -1,4 +1,4 @@
-package main;
+package calc;
 
 import org.junit.jupiter.api.RepeatedTest;
 import org.junit.jupiter.params.ParameterizedTest;
